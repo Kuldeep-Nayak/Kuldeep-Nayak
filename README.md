@@ -1,8 +1,8 @@
-<h3 align="left">About Me:</h3>
+<h2 align="left">About Me:</h2>
 
 <p>Hello! I'm a passionate and dedicated full stack developer with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js) and proficiency in DevOps practices using AWS.</p>
 
-<h3 align="left">Socials:</h3>
+<h4 align="left">Socials:</h4>
 
 <p align="left">
 <a href="https://linkedin.com/in/kuldeep-nayak-2b7207247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep-nayak-2b7207247" height="30" width="40" /></a>
@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep-nayak&" alt="kuldeep-nayak" /></p>
 
-<h3 align="left">GitHub Trophies:</h3>
+<h4 align="left">GitHub Trophies:</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeep-nayak" alt="kuldeep-nayak" /></a> </p>

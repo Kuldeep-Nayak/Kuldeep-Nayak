@@ -2,7 +2,7 @@
 
 <p>Hello! I'm a passionate and dedicated full stack developer with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js) and proficiency in DevOps practices using AWS.</p>
 
-<h3 align="left">Socials:</h3>
+<h3 align="left"> <img src="https://img.icons8.com/color/48/000000/globe.png" alt="social-media" width="30" height="30"/> Socials: </h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/kuldeep-nayak-2b7207247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep-nayak-2b7207247" height="30" width="40" /></a>

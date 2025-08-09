@@ -1,6 +1,6 @@
 <h2 align="left"> <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" alt="about-me" width="30" height="30"/> About Me: </h2>
 
-<p>Hello! I'm a passionate and dedicated full stack developer with a focus on the MERN stack (MongoDB, Express.js, React.js, Node.js) and proficiency in DevOps practices using AWS.</p>
+<p>Java Full Stack Developer</p>
 
 <h3 align="left"> <img src="https://img.icons8.com/color/48/000000/globe.png" alt="social-media" width="30" height="30"/> Socials: </h3>
 
